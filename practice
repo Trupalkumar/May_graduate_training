@@ -12,3 +12,7 @@ def Main():
 Main()
 
 print("Hello") 
+def Feature_2():
+    print("This is Feature 2")
+
+Feature_2()
