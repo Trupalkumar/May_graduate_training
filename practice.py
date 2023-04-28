@@ -9,12 +9,3 @@ def Home_NavBar():
 def Main(): 
     feature_1()
 
-Main()
-
-print("Hello") 
-def Feature_2():
-    print("This is Feature 2")
-
-Feature_2()
-print("trupal")
-print("Good Night")
