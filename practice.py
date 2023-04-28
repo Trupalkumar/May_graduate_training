@@ -8,4 +8,6 @@ def Home_NavBar():
 
 def Main(): 
     feature_1()
-
+def Main():
+ feature_2()
+ Print("Good Morning")
